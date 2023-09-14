@@ -1,0 +1,16 @@
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje\InicijalnoPonavljanje\bin\Debug\InicijalnoPonavljanje.exe.config
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje\InicijalnoPonavljanje\bin\Debug\InicijalnoPonavljanje.exe
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje\InicijalnoPonavljanje\bin\Debug\InicijalnoPonavljanje.pdb
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje\InicijalnoPonavljanje\obj\Debug\InicijalnoPonavljanje.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje\InicijalnoPonavljanje\obj\Debug\InicijalnoPonavljanje.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje\InicijalnoPonavljanje\obj\Debug\InicijalnoPonavljanje.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje\InicijalnoPonavljanje\obj\Debug\InicijalnoPonavljanje.exe
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje\InicijalnoPonavljanje\obj\Debug\InicijalnoPonavljanje.pdb
+C:\Users\HP\Desktop\InicijalneVjezbeNiOP-main\InicijalnoPonavljanje\InicijalnoPonavljanje\bin\Debug\InicijalnoPonavljanje.exe.config
+C:\Users\HP\Desktop\InicijalneVjezbeNiOP-main\InicijalnoPonavljanje\InicijalnoPonavljanje\bin\Debug\InicijalnoPonavljanje.exe
+C:\Users\HP\Desktop\InicijalneVjezbeNiOP-main\InicijalnoPonavljanje\InicijalnoPonavljanje\bin\Debug\InicijalnoPonavljanje.pdb
+C:\Users\HP\Desktop\InicijalneVjezbeNiOP-main\InicijalnoPonavljanje\InicijalnoPonavljanje\obj\Debug\InicijalnoPonavljanje.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\InicijalneVjezbeNiOP-main\InicijalnoPonavljanje\InicijalnoPonavljanje\obj\Debug\InicijalnoPonavljanje.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\InicijalneVjezbeNiOP-main\InicijalnoPonavljanje\InicijalnoPonavljanje\obj\Debug\InicijalnoPonavljanje.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\InicijalneVjezbeNiOP-main\InicijalnoPonavljanje\InicijalnoPonavljanje\obj\Debug\InicijalnoPonavljanje.exe
+C:\Users\HP\Desktop\InicijalneVjezbeNiOP-main\InicijalnoPonavljanje\InicijalnoPonavljanje\obj\Debug\InicijalnoPonavljanje.pdb
